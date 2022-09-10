@@ -4,3 +4,5 @@ Segundo fichero
 Cambiado...
 
 Finalizando cambio
+
+Cambio en la rama2
